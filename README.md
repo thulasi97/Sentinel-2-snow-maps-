@@ -1,4 +1,4 @@
-# Sentinel-2-snow-maps-
+# Sentinel-2-snow-maps
 Batch downloading and processing Sentinel-2 images to binary snow maps.
 
 This script aims to download Sentinel-2 satellite images from Copernicus open access hub for a specified time period and pre-process the images before computing the Normalized Difference Snow Index (NDSI). Thereafter, a threshold of 0.4 is applied to ndsi maps in order to obtain binary snow maps. 
